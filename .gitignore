@@ -1,0 +1,7 @@
+service-account.json
+.env
+.env.*
+!.env.example
+frontend-react/node_modules/
+frontend-react/dist/
+frontend-react/.env
